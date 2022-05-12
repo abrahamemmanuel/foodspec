@@ -9,7 +9,7 @@ dotenv.config({ path: './config/config.env' });
 
 ConnectDB();
 
-const food = require('./routes/foods');
+const foods = require('./routes/foods');
 
 const app = express();
 
@@ -20,7 +20,7 @@ if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
 }
 
-app.use('/api/v1/foodspecs', posts);
+app.use('/api/v1/foodspecs', foods);
 
 const PORT = process.env.PORT || 3000;
 

@@ -1,15 +1,13 @@
 [
   {
-      "id": 1,
-      "name": "Sopa de castanha do par\u00e1",
+      "name": "Sopa de castanha do eggs",
       "price": 9.82,
       "specifications": [
           "low-carb"
       ]
   },
   {
-      "id": 2,
-      "name": "C\u00e1psulas de castanha do par\u00e1",
+      "name": "rice de castanha do beans",
       "price": 27.37,
       "specifications": [
           "lactose-free",
@@ -17,7 +15,6 @@
       ]
   },
   {
-      "id": 3,
       "name": "Chips de milho",
       "price": 32.24,
       "specifications": [
@@ -29,16 +26,14 @@
       ]
   },
   {
-      "id": 4,
-      "name": "C\u00e1psulas de morango",
+      "name": "wwrss de morango",
       "price": 24.29,
       "specifications": [
           "low-carb"
       ]
   },
   {
-      "id": 5,
-      "name": "C\u00e1psulas de milho",
+      "name": "6rdhgf de milho",
       "price": 9.16,
       "specifications": [
           "lactose-free",
@@ -49,7 +44,6 @@
       ]
   },
   {
-      "id": 6,
       "name": "Sopa de milho",
       "price": 7.4,
       "specifications": [
@@ -61,7 +55,6 @@
       ]
   },
   {
-      "id": 7,
       "name": "Chips de morango",
       "price": 13.83,
       "specifications": [
@@ -70,8 +63,7 @@
       ]
   },
   {
-      "id": 8,
-      "name": "Chips de castanha do par\u00e1",
+      "name": "Chips de castanha do pareteg",
       "price": 11.31,
       "specifications": [
           "lactose-free",
@@ -79,8 +71,7 @@
       ]
   },
   {
-      "id": 9,
-      "name": "C\u00e1psulas de castanha do par\u00e1",
+      "name": "0e1psulas de castanha do par4",
       "price": 32.59,
       "specifications": [
           "vegan",
@@ -88,7 +79,6 @@
       ]
   },
   {
-      "id": 10,
       "name": "Barrinhas de mandioquinha",
       "price": 14.41,
       "specifications": [
@@ -98,7 +88,6 @@
       ]
   },
   {
-      "id": 11,
       "name": "Salgadinho de morango",
       "price": 16.12,
       "specifications": [
@@ -109,8 +98,7 @@
       ]
   },
   {
-      "id": 12,
-      "name": "C\u00e1psulas de milho",
+      "name": "psulas de milho",
       "price": 7.36,
       "specifications": [
           "vegan",
@@ -119,8 +107,7 @@
       ]
   },
   {
-      "id": 13,
-      "name": "Sopa de lim\u00e3o",
+      "name": "Sopa de lio",
       "price": 20.79,
       "specifications": [
           "low-carb",
@@ -130,8 +117,7 @@
       ]
   },
   {
-      "id": 14,
-      "name": "C\u00e1psulas de lim\u00e3o",
+      "name": "34 psulas de li",
       "price": 26.98,
       "specifications": [
           "gluten-free",
@@ -141,8 +127,7 @@
       ]
   },
   {
-      "id": 15,
-      "name": "C\u00e1psulas de morango",
+      "name": "7sulas de morango",
       "price": 25.63,
       "specifications": [
           "lactose-free",
@@ -150,7 +135,6 @@
       ]
   },
   {
-      "id": 16,
       "name": "Salgadinho de milho",
       "price": 25.1,
       "specifications": [
@@ -161,23 +145,20 @@
       ]
   },
   {
-      "id": 17,
-      "name": "Salgadinho de castanha do par\u00e1",
+      "name": "Salgadinho de castanha do par90",
       "price": 27.52,
       "specifications": [
           "gluten-free"
       ]
   },
   {
-      "id": 18,
-      "name": "Salgadinho de lim\u00e3o",
+      "name": "Salgadinho de lim56",
       "price": 11.73,
       "specifications": [
           "lactose-free"
       ]
   },
   {
-      "id": 19,
       "name": "Sopa de morango",
       "price": 33.34,
       "specifications": [
@@ -188,8 +169,7 @@
       ]
   },
   {
-      "id": 20,
-      "name": "Barrinhas de mandioquinha",
+      "name": "Barrinhas de dod",
       "price": 5.9,
       "specifications": [
           "lactose-free",
