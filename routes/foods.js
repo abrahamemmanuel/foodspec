@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const {getFoodBySpecs} = require('../app/Http/Controllers/FoodController');
+const {getFoods} = require('../app/Http/Controllers/FoodController');
 
-router.route('/').get(getFoodBySpecs);
+router.route('/').get(getFoods);
 
 module.exports = router;

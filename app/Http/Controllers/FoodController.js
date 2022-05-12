@@ -1,6 +1,4 @@
 const Food = require('../../Models/Food');
-
-
 /**
  * @async
  * @param {object} req
@@ -8,9 +6,8 @@ const Food = require('../../Models/Food');
  * @returns {json} json object
  */
 class FoodController {
-  async getFoodBySpecs(req, res, next) {
+  static async getFoods(req, res, next) {
     try {
-      //get all foods in db
       const foods = await Food.find();
       return res.status(200).json({
         success: true,
