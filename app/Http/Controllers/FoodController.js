@@ -15,6 +15,7 @@ class FoodController {
       }).sort({ price: order });
       return res.status(200).json({
         success: true,
+        message: 'Foods retrieved successfully',
         count: foods.length,
         data: foods
       });
