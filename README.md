@@ -41,8 +41,8 @@ Codes   | Description  |
 #### Quick Start
 ___
 
-##### **Posts**
-The Posts API allows you to do the following:
+##### **Food Specs**
+The Food Specs API allows you to do the following:
 - Search for foods by their specifications and also order price in asc or desc order
 
 
